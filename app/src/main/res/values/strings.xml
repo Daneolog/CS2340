@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BuzzShelter</string>
+    <string name="title_activity_main">Home</string>
+    <string name="title_activity_welcome">BuzzShelter</string>
+    <string name="buzzshelter">BuzzShelter</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="title_activity_login">Login</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_register">Register</string>
+    <string name="name">Name:</string>
+    <string name="retype_pass">Retype Pass:</string>
+    <string name="account">Account:</string>
+    <string name="email">Email:</string>
+    <string name="title_activity_list">Shelter List</string>
+    <string name="title_activity_shelter">Shelter</string>
+    <string name="back">Back</string>
+</resources>
